@@ -1053,5 +1053,5 @@ while True:
 		#if event.type==pygame.MOUSEBUTTONDOWN:
 			#pass
 
-		clock.tick(30)
+		clock.tick(31)
 		pygame.display.update()
